@@ -1,5 +1,5 @@
 Basic Concepts of Webpack
 <br>
 <h4>
-Webpack Version 5.0+ 
+Webpack Version 5.3 
 </h4>
